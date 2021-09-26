@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF: 1, Tigo Sport Hon
+https://d20tezjrkz1zmc.cloudfront.net:443/out/v1/70c5e7b2534245f69d923065ffefd6d2/index_4.m3u8
+#EXTINF: 1, Tigo Sport Paraguay
+http://tv5full.xyz:25461/quir/quir123/20522
+#EXTINF: 1,  TVMAX Panamá
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF: 1, TNT SPORTS BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF: 1, TNT SPORTS2 BRASIL
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF: 1, Futbol Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF: 1, Futbol 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF: 1, Deporte Interactivo
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF: 1, TV2 SPORT 1
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF: 1, SPORT 1
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF: 1, VTV PLUS
+http://cdn.boxter.live:8081/DEP/VTV_PLUS/chunks.m3u8
+#EXTINF: 1, VTV 
+http://cdn.boxter.live:8081/DEP/VTV/chunks.m3u8
+#EXTINF: 1, GOL TV INT
+http://cdn.boxter.live:8081/DEP/GOL_TV/chunks.m3u8
+#EXTINF: 1, GOL TV INT Opc2
+http://cdn.raino.xyz:80/soccer/soccer1-version1/rainostream.m3u8?SBN
+#EXTINF: 1, GOL PERU
+http://cdn.boxter.live:8081/DEP/GOL_PERU/chunks.m3u8
+#EXTINF: 1, GOL PERU Opc2
+http://tv.cablelatino.xyz/hls/VACA/PE_GOLPERU.m3u8
+#EXTINF: 1, TUDN USA
+http://xgtv.club:8080/play/6H2kdIejLUkHALMBPZG-BLQ5CXZgZqXe1TIa4CQyC51KLzQ5V1--cYAE5k--HqmZ/ts
+#EXTINF: 1, TUDN USA Opc2
+http://cdn.boxter.live:8081/DEP/TUDN_USA/chunks.m3u8
+#EXTINF: 1, SETANTA SPORTS
+http://ott-cdn.ucom.am/s82/03.m3u8
+#EXTINF: 1, SETANTA SPOR Opc2
+https://bal.varcdn1.ru/lb/setanta1/index.m3u8?per
+#EXTINF: 1, FREE SPORTS
+http://77.247.109.101/hls/A1.m3u8
+#EXTINF: 1, SPORT-TV 1
+http://77.247.109.92/hls/W2.m3u8?per
+
